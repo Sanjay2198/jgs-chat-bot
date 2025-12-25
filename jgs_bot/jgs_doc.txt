@@ -1,0 +1,141 @@
+Johnson Grammar School (JGS) – Chatbot Response Content 
+This document contains concise question‑and‑answer pairs to help a chatbot trained on Johnson Grammar School’s website provide clear and accurate 
+responses. Each answer is based on information from the school’s website, and citations are included so the language‑model can trace the source. 
+Greetings and General Prompts 
+• Hi / Hello / Hey: “Hello! Welcome to Johnson Grammar School. I’m here to answer questions about our school. How can I help you?” 
+• How are you? / What’s up? “I’m doing well, thank you! Feel free to ask about our admissions, academics, activities, or anything else related 
+to Johnson Grammar School.” 
+• If your question isn’t answered: “I’m sorry, I don’t have an answer for that. Please ask about admissions, academics, campus activities or 
+contact information, or select one of our main menus 
+(About Us, Admissions, Academics, Beyond Academics, Contact Us).” 
+About Johnson Grammar School 
+• What is Johnson Grammar School? Johnson Grammar School (JGS) is a co‑educational institution with campuses at LB Nagar and Kuntloor in 
+Hyderabad. It provides quality education rooted in core values and ethics and has been treading the path of excellence since its inception in 
+2009 1 . 
+• Where are your campuses located? 
+• LB Nagar campus: Balaji Nagar, Mansoorabad – LB Nagar, Near Kamineni Hospital, LB Nagar –  Uppal Road, Hyderabad, Telangana 500068 
+. 
+• Kuntloor campus: Survey No. 271, Kuntloor, Hayath Nagar Mandal, R.R. District, Telangana 501505 
+. 
+• Which curriculum does JGS follow? JGS follows the ICSE curriculum. The school notes that the Council for the Indian School Certificate 
+Examination (New Delhi) aims to provide high‑quality education and exciting learning opportunities . 
+• How many teachers are there? JGS’s academic section mentions that the school has a well‑qualified and highly trained staff of over 600 
+educators, bringing diverse talent and enthusiasm to every classroom . 
+Mission, Vision & Values 
+• Mission of the school: The mission of Johnson Grammar School is to prepare each student for holistic learning and development by providing 
+opportunities in a stimulating, safe and supportive environment. The school challenges all students to realize their physical, intellectual, 
+emotional and social potentials so they become proactive, responsible and globally minded citizens 6 . 
+• Vision of the school: JGS envisions igniting in young minds a love of learning and continuous development by making learning an enjoyable 
+experience. It aims to develop students’ capabilities from a global perspective by instilling self‑esteem and confidence, achieve excellence by 
+motivating students to aim high, and pioneer “next practices” that promote an international outlook 7 . 
+• Values and ethics: The school believes that education combines knowledge acquisition, opportunities and value systems. Holistic 
+development is a mantra at JGS; inculcating values is the culmination of all experiences. The LB Nagar and Kuntloor campuses were established 
+with a motto to provide quality education with an emphasis on core values and ethics 1 . 
+1 
+Admissions 
+• How can I start the admission process? Begin by submitting an enquiry. You may call +91 9652260499 or +91 9391551065 or fill out the 
+online enquiry form. A counselor will then contact you to guide you through the process . 
+• What are the steps in the admissions process? 
+• Enquiry: Contact the school or fill out the enquiry form . 
+• Consultation: Meet or speak with a counselor to discuss the school’s educational approach and clarify any questions . 
+• Campus visit: Parents are encouraged to visit the campus to experience its culture and facilities 10 . 
+• Application form: After counseling, purchase an application form to proceed 11 . 
+• Interaction/assessment: Students undergo age‑appropriate interactions or assessments (oral for kindergarten, written for higher classes) 12 . 
+• Confirmation & fee payment: After completing the steps, parents receive an admission offer and secure enrollment by paying the relevant 
+fees 13 . 
+• What are the age criteria for the 2026‑27 academic year? 
+• L.K.G.: Born between 01‑Sept‑2021 and 31‑Aug‑2022 14 . 
+• U.K.G.: Born between 01‑Sept‑2020 and 31‑Aug‑2021 15 . 
+• 1st Std: Born between 01‑Sept‑2019 and 31‑Aug‑2020 16 . 
+• 2nd Std: Born between 01‑Apr‑2019 and 31‑May‑2020 16 . 
+• 3rd Std: Born between 01‑Apr‑2018 and 31‑May‑2019 16 . • 4th Std: Born between 01‑Apr‑2017 and 31‑May‑2018 16 . 
+• 5th Std: Born between 01‑Apr‑2016 and 31‑May‑2017 17 . 
+• When do admissions open? Admissions enquiries for the next academic year typically begin in the first week of November 18 . 
+• What are the school timings? Classes up to Class IV follow a five‑day week. Classes V to X have a six‑day week with Saturday being a half day. 
+Timings are: Preprimary – 8:50 am – 2:20 pm; Primary 
+(Classes I‑IV) – 8:30 am – 3:00 pm; Senior school – 8:30 am – 3:40 pm 
+• Do you have a canteen? No. There is no canteen facility at either campus . 
+• Is transport available? Yes. The school provides transport facilities for both campuses 21 . 
+• What extracurricular activities are offered? The school believes in holistic education. Students can participate in sports and games, dance, 
+drama, music, art and SUPW; they also engage in literary, aesthetic, scientific and community‑service co‑curricular activities 22 . 
+• What types of assessments are used? Assessments include traditional exams, Olympiads and NEP‑aligned fun‑based, analytical and 
+application‑based evaluations 23 . 
+• Does the school offer specialised sports training? Yes. JGS provides specialised sports training and has achieved recognition at regional and 
+national sports events conducted by the CISCE 24 . 
+• Is there special training for Olympiads? Yes. An in‑house assessment system called the Johnson Enrichment Programme aligns with Olympiad 
+preparation 25 . 
+• Do you provide IIT/NEET orientation? Yes, IIT and NEET orientation is available for students from Classes VI to X 26 . 
+2 
+• Do you conduct career guidance workshops? Yes. Every year in December, the school organises a career‑orientation programme for Class X 
+students 27 . 
+• How were the 2023‑24 ICSE Class 10 results? The school’s top scorer achieved 98.9 %, and 67 students scored above 90 % 28 . 
+• Is there hostel accommodation? No. JGS does not provide hostel facilities 29 . 
+• Is it a co‑educational school? Yes. Johnson Grammar School is a co‑education institution 30 . 
+• Do children need updated Aadhaar biometrics? Yes. Children must have their Aadhaar biometrics updated when they reach five years. As 
+per existing rules, fingerprints, iris and photo updates are mandatory at age five — this is called the first Mandatory Biometric Update (MBU) 
+31 . 
+Academics & Curriculum 
+• What is the school’s educational philosophy? JGS’s core values and educational beliefs are governed by its mission to provide quality and 
+affordable education and guide students to “aim high” and achieve success 32 . 
+• Tell me about the curriculum. The curriculum is based on the ICSE board; it is designed to offer high‑quality education and create exciting 
+learning opportunities, empowering students to excel in all fields . 
+• What does ICSE education emphasise at JGS? It emphasises skill development, creativity and real‑world application. Students learn to 
+explore, analyze, question and communicate, turning them into innovators and problem‑solvers 33 . The curriculum balances academics, 
+co‑curricular activities and values‑based learning, encouraging students to connect classroom learning with real‑world experiences 34 . 
+• Which skills are developed through the ICSE curriculum? Key skills include: 
+• Critical thinking and application‑based learning: Students are encouraged to question, reason and apply concepts to real‑life situations 35 . 
+• Communication and collaboration: Group discussions, debates and drama activities help students express themselves clearly and work 
+effectively with others 36 . 
+• Creativity and innovation: Art, music, literature and design are used to build imagination and originality 37 . 
+• Digital literacy: Technology is integrated through computer applications, coding and interactive lessons to develop digital fluency 38 . 
+• Problem‑solving and decision‑making: Students tackle case studies and challenges requiring logic and creativity 39 . 
+• Leadership and teamwork: Sports, house activities and cultural programmes teach leadership, discipline and cooperation 40 . 
+• Emotional intelligence and values‑based learning: Discussion and moral education help children learn empathy, kindness and responsibility 
+41 . 
+• How does JGS bring learning to life? Teachers focus on application‑driven teaching — theory is turned into experience through experiments 
+in science, puzzles in mathematics and storytelling in language. Projects sharpen observation, creativity and critical thinking 42 . 
+Beyond Academics 
+• What does “Beyond Academics” mean at JGS? While academic excellence is essential, JGS integrates extracurricular and co‑curricular 
+activities with academics to ensure all‑round development. This blend encourages learning beyond the classroom 43 . 
+• What activities are available? Activities cultivate curiosity, ethics and values. Opportunities include leadership roles in the school cabinet, 
+participation in the school choir, membership in the ECO Club and SPACE Club, and engagement in sports and games 44 . 
+3 
+4 
+ 
+  
+  
+   
+• Do you recognise student achievements? Yes. The Beyond Academics page features sections highlighting student achievements and success 
+stories for recent academic years 45 . 
+Contact Information 
+• How do I contact the LB Nagar ? Phone: +91 9652260499 or +91 9391551065. Address: Balaji Nagar, Mansoorabad – LB Nagar, Near Kamineni 
+Hospital, LB Nagar – Uppal Road, Hyderabad 500068. Email: contact.jgschool@gmail.com 46 . 
+• How do I contact the Kuntloor ? Phone: +91 6303858972 or +91 9491706422. Address: Survey No. 271, Kuntloor, Hayath Nagar Mandal, R.R. 
+District, Telangana 501505. Email: jgs.kuntloor@gmail.com 47 . 
+• Is there a general contact? Yes. You can write to johnson.icselbngr@gmail.com or call +91 9391551065 48 . 
+• Where can I find more information online? Visit the Johnson Grammar School website at jgslbngr.in for detailed information. For parents, 
+there is also a “Parent Login” section on the site’s header 49 . 
+Other Facilities & FAQs 
+• Is there a library or hostel? The site does not mention hostel facilities and explicitly states that there is no hostel 29 . Library details are not 
+provided on the site. 
+• Does JGS have a canteen? No canteen facility is available 20 . 
+• What transport options are available? School transport is provided for both campuses . 
+• Is Johnson Grammar School a co‑educational school? Yes, JGS is co‑educational 
+• Are there career guidance workshops? Yes. The school offers a career‑orientation workshop for Class X students every December 27 . 
+• How do I update Aadhaar biometrics for my child? As per government rules, children must update fingerprints, iris and photo in their Aadhaar 
+at age five. This mandatory biometric update is known as the first Mandatory Biometric Update (MBU) 
+Note: If a user asks a question that is not covered in this document, the chatbot should respond politely that the information is unavailable and invite 
+the user to choose from the main menu (About Us, Admissions, Academics, Beyond Academics, Contact Us) or ask another question. 
+ 
+1 6 7 48 49 About Johnson Grammar School | Leading Co-ed School https://jgslbngr.in/about-us 
+2 3 46 47 Contact Johnson Grammar School | Get in Touch https://jgslbngr.in/contact-us 
+4 5 32 Academics at Johnson Grammar School | ICSE Excellence https://jgslbngr.in/academics 
+8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 Admissions at 
+Johnson Grammar School | Apply Now 
+https://jgslbngr.in/admissions 
+33 34 35 36 37 38 39 40 41 42 Skill Development Through the ICSE Curriculum: Preparing Students for 
+Life Beyond the Classroom 
+https://jgslbngr.in/blog/skill-development-through-the-icse-curriculum-preparing-students-for-life-beyond-the-classroom/30 
+43 44 45 Beyond Academics at Johnson Grammar School | Student Growth https://jgslbngr.in/beyond-academics/home 
+ 
+5 
